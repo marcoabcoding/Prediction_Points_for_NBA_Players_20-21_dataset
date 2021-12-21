@@ -1,1 +1,2 @@
 # prediction-points-for-NBA-20-21-data-set
+O código tem como objetivo implementar um modelo de machine learning capaz de inferir os pontos da tabela NBA presente no site (https://www.basketball-reference.com/leagues/NBA_2021_totals.html). Foram feitas a extração da tabela utilizando Web scraping, análise exploratória dos dados, aplicações e teste de modelos assim como seu fine-tuning utilizando o Grid Search.
