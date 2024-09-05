@@ -1,2 +1,9 @@
 # NBA Player Prediction Points. A Machine Learning project using Python
-O código visa implementar um modelo de aprendizado de máquina capaz de inferir os pontos dos jogadores da NBA. A tabela foi extraída usando Web scraping, uma análise exploratória e testes de modelos foram feitos com fine-tuning usando o Grid Search.
+This project implements a machine learning model to predict NBA player points. The dataset was extracted through web scraping, followed by exploratory data analysis (EDA). Multiple models were tested, and fine-tuning was performed using Grid Search to optimize performance.
+
+Key Features:
+
+Data Collection: NBA player statistics were scraped from the web.
+Exploratory Data Analysis (EDA): Insights into player performance and statistical distributions were derived.
+Modeling: Various machine learning algorithms were tested.
+Model Optimization: Fine-tuning was carried out using Grid Search to enhance model accuracy.
